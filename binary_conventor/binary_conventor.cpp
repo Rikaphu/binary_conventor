@@ -5,12 +5,15 @@ using namespace std;
 
 int main()
 {
+    cout << "  ----------------\n  BINARY CONVERTER\n  ----------------\n";
+
     string text = "";
 
+    cout << "text input: ";
     getline(cin, text);
-
-    //cout << text.length() << "\n";
-    //cout << text << "\n";
+    
+    cout << "\n";
+    cout << "binary output: ";
 
     for (int i = 0; i < text.length(); i++) {
         char c = text[i];
