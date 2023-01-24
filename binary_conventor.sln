@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binary_conventor", "binary_conventor\binary_conventor.vcxproj", "{DB55146B-F72E-47F1-8804-442162EA17F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB55146B-F72E-47F1-8804-442162EA17F0}.Debug|x64.ActiveCfg = Debug|x64
+		{DB55146B-F72E-47F1-8804-442162EA17F0}.Debug|x64.Build.0 = Debug|x64
+		{DB55146B-F72E-47F1-8804-442162EA17F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB55146B-F72E-47F1-8804-442162EA17F0}.Debug|x86.Build.0 = Debug|Win32
+		{DB55146B-F72E-47F1-8804-442162EA17F0}.Release|x64.ActiveCfg = Release|x64
+		{DB55146B-F72E-47F1-8804-442162EA17F0}.Release|x64.Build.0 = Release|x64
+		{DB55146B-F72E-47F1-8804-442162EA17F0}.Release|x86.ActiveCfg = Release|Win32
+		{DB55146B-F72E-47F1-8804-442162EA17F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95B2C8C-E670-4EA5-8BC8-72E568A8480C}
+	EndGlobalSection
+EndGlobal
